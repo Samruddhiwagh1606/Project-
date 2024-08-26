@@ -3,8 +3,8 @@ using namespace std;
 int main ()
 {
 int no1=23,no2=23;
-int sum;
-sum=no1+no2;
-cout<<sum; 
+int sub;
+sub=no1- no2;
+cout<<sub; 
 return 0;
 }
